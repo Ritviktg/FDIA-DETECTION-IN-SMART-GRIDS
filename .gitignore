@@ -1,0 +1,29 @@
+# Python byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE configurations
+.vscode/
+.idea/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Temporary log files
+*.log
+
+# Heavy baseline pickle dumps (can be re-trained; keep scalers and PyTorch models)
+models/*.pkl
+!models/scaler_14.pkl
+!models/scaler_118.pkl

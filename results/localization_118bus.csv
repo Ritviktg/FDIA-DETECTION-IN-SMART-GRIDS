@@ -1,0 +1,6 @@
+Attack_Type,Top1_Accuracy,Top3_Accuracy
+pulse,1.0,1.0
+ramping,0.8333333333333334,1.0
+random,0.3333333333333333,1.0
+scaling,1.0,1.0
+Overall,0.8695652173913043,1.0
